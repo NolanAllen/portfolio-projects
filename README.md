@@ -1,5 +1,5 @@
 # Portfolio Projects
-A diverse collection of eight C++ projects showcasing various skills including dynamic programming, game programming, and file parsing with regex. Full details can be found in Project_Portfolio.pdf in this repository. A brief overview is provided below.
+A diverse collection of eight C++ projects showcasing various skills including dynamic programming, encryption, game system programming, and file parsing with regex. Full details can be found in Project_Portfolio.pdf in this repository. A brief overview is provided below.
 
 ## ps0: Hello SFML
 A simple introductory project to using Simple and Fast Multimedia Library (SFML) for displaying graphics. Run with `.\sfml-app`.
