@@ -2,6 +2,7 @@
 
 ## Contact
 Name: Nolan Allen
+
 Time to Complete: 21h 20m total, 6h 35m writing code and associated files, 14h 45m attempting to install/use the Linux software
 
 
