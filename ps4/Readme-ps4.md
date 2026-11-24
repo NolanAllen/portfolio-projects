@@ -2,6 +2,7 @@
 
 ## Contact
 Name: Nolan Allen
+
 Time to Complete: 9 hours for part b, 16 hours for complete Sokoban game
 
 
